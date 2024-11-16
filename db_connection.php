@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$user = "root";
+$user = "vote_bermvoter";
 $pass = "";
-$db   = "barangay_system";
+$db   = "vote_voters";
 
 try {
     $conn = new PDO("mysql:host={$host};dbname={$db};",$user,$pass);
