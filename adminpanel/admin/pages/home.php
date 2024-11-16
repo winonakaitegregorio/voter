@@ -104,7 +104,7 @@
                   <div class="card-body d-flex justify-content-between align-items-center">
                      <div>
                         <h5 class="card-title"><i class="fas fa-users"></i> Reg. Voters</h5>
-                        <p class="card-text">Total: <strong>1,234</strong></p>
+                        <p class="card-text">Total: <strong>0</strong></p>
                      </div>
                      <i class="fas fa-vote-yea card-icon"></i>
                   </div>
@@ -117,7 +117,7 @@
                   <div class="card-body d-flex justify-content-between align-items-center">
                      <div>
                         <h5 class="card-title"><i class="fas fa-calendar-alt"></i> Elections Managed</h5>
-                        <p class="card-text">Total: <strong>12</strong></p>
+                        <p class="card-text">Total: <strong>0</strong></p>
                      </div>
                      <i class="fas fa-calendar-check card-icon"></i>
                   </div>
@@ -130,7 +130,7 @@
                   <div class="card-body d-flex justify-content-between align-items-center">
                      <div>
                         <h5 class="card-title"><i class="fas fa-user-clock"></i> Pending Requests</h5>
-                        <p class="card-text">Total: <strong>27</strong></p>
+                        <p class="card-text">Total: <strong>0</strong></p>
                      </div>
                      <i class="fas fa-exclamation-circle card-icon"></i>
                   </div>
@@ -143,7 +143,7 @@
                   <div class="card-body d-flex justify-content-between align-items-center">
                      <div>
                         <h5 class="card-title"><i class="fas fa-check-circle"></i> Active Voters</h5>
-                        <p class="card-text">Total: <strong>980</strong></p>
+                        <p class="card-text">Total: <strong>0</strong></p>
                      </div>
                      <i class="fas fa-user-check card-icon"></i>
                   </div>
@@ -156,7 +156,7 @@
                   <div class="card-body d-flex justify-content-between align-items-center">
                      <div>
                         <h5 class="card-title"><i class="fas fa-user-tie"></i> Current Officials</h5>
-                        <p class="card-text">Total: <strong>15</strong></p>
+                        <p class="card-text">Total: <strong>0</strong></p>
                      </div>
                      <i class="fas fa-user-tie card-icon"></i>
                   </div>
@@ -169,7 +169,7 @@
                   <div class="card-body d-flex justify-content-between align-items-center">
                      <div>
                         <h5 class="card-title"><i class="fas fa-users-crown"></i> Candidates</h5>
-                        <p class="card-text">Total: <strong>32</strong></p>
+                        <p class="card-text">Total: <strong>0</strong></p>
                      </div>
                      <i class="fas fa-user-friends card-icon"></i>
                   </div>
